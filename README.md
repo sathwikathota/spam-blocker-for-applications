@@ -1,0 +1,1 @@
+# spam-blocker-for-applications
